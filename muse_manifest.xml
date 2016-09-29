@@ -1,0 +1,63 @@
+<manifest alg="2" build="314" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="417434784"/>
+    <file name="index.css" crc="301517511" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3865766194" ref="index"/>
+    <file name="webpro.js" crc="3903299128" ref="index"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="mottonetua-13392.jpg" crc="3918042577" ref="index"/>
+    <file name="q6g0nelwwpy-u69.jpg" crc="4292115816" ref="index"/>
+    <file name="image.png" crc="104793255" ref="index"/>
+    <file name="u95-4.png" crc="500680207" ref="index"/>
+    <file name="cu9vkl4t_pc.jpg" crc="3795242620" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="eea6mkuk-fo.jpg" crc="393689643" ref="index"/>
+    <file name="gyuzjbr_g8s.jpg" crc="4235754437" ref="index"/>
+    <file name="ifss83q9nkg.jpg" crc="3892136534" ref="index"/>
+    <file name="ebqjqieppds.jpg" crc="153973841" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u437-8.png" crc="3796844958" ref="index"/>
+    <file name="u477-sprite.png" crc="3985397228" ref="index"/>
+    <file name="nastolcomua-173377.jpg" crc="3833753512" ref="index"/>
+    <file name="u466-4.png" crc="141146852" ref="index"/>
+    <file name="u479-10.png" crc="3909387859" ref="index"/>
+    <file name="2ac_5bzy650.jpg" crc="4187044202" ref="index"/>
+    <file name="fedk8foajya.jpg" crc="129257417" ref="index"/>
+    <file name="oaqrpzrg3fi.jpg" crc="4235240328" ref="index"/>
+    <file name="udf1omzci0w.jpg" crc="55995452" ref="index"/>
+    <file name="u630-sprite.png" crc="241955460" ref="index"/>
+    <file name="u632-9.png" crc="314297074" ref="index"/>
+    <file name="u627-4.png" crc="4144519889" ref="index"/>
+    <file name="_3nkirkj6cy.jpg" crc="3987931376" ref="index"/>
+    <file name="dkya0ti5umq.jpg" crc="4068110982" ref="index"/>
+    <file name="jztsbc57pz8.jpg" crc="363566763" ref="index"/>
+    <file name="qcxdvmfdpak.jpg" crc="4024273463" ref="index"/>
+    <file name="u787-sprite.png" crc="3889896080" ref="index"/>
+    <file name="u788-10.png" crc="290961293" ref="index"/>
+    <file name="g42mkqrgiws.jpg" crc="4269188832" ref="index"/>
+    <file name="u780-4.png" crc="4290620679" ref="index"/>
+    <file name="7u0eualgpq0.jpg" crc="3885759879" ref="index"/>
+    <file name="9cq8o1rwove.jpg" crc="125287264" ref="index"/>
+    <file name="elfu0xjvf9g.jpg" crc="3996671461" ref="index"/>
+    <file name="kzxossuywim.jpg" crc="191496425" ref="index"/>
+    <file name="lytb0g0leva.jpg" crc="328786591" ref="index"/>
+    <file name="i.png" crc="3915189970" ref="index"/>
+    <file name="5763437e961041555bbfa697.png" crc="222621188" ref="index"/>
+    <file name="573ffd86e3b8e154d1f65715.png" crc="4283985793" ref="index"/>
+    <file name="u980-4.png" crc="4206516683" ref="index"/>
+    <file name="u983-4.png" crc="3843015523" ref="index"/>
+    <file name="u986-4.png" crc="4190796678" ref="index"/>
+    <file name="ws_ubuntu_bosquetk_1920x1200.jpg" crc="3851280463" ref="index"/>
+    <file name="screen-shot-2015-07-08-at-155143-copy2-u971.jpg" crc="52910202" ref="index"/>
+  </folder>
+  <file name="index.html" crc="513289864" mt="1474642702377" redirect="true"/>
+</manifest>
